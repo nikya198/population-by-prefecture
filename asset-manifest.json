@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/population-by-prefecture/static/css/main.f15b550c.css",
+    "main.js": "/population-by-prefecture/static/js/main.fd8abd47.js",
+    "index.html": "/population-by-prefecture/index.html",
+    "main.f15b550c.css.map": "/population-by-prefecture/static/css/main.f15b550c.css.map",
+    "main.fd8abd47.js.map": "/population-by-prefecture/static/js/main.fd8abd47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15b550c.css",
+    "static/js/main.fd8abd47.js"
+  ]
+}
